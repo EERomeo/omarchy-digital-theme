@@ -1,4 +1,4 @@
-# omarchy-auto-theme
+# omarchy-digital-theme
 Digital fantasy theme with backgrounds from wallhaven.cc for Omarchy
 
 # Previews
